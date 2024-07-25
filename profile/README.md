@@ -20,6 +20,6 @@
 * [Analytics](https://github.com/Aptivi-Analytics)
 * [Chocolatey Packs](https://github.com/Aptivi-Choco-Pack)
 * [Mobile](https://github.com/aptivi-mobile)
-* PowerTools
+* **PowerTools**
   * **Windows PowerTools**
   * [Linux PowerTools](https://github.com/Aptivi-LPT)
